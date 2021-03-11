@@ -1,4 +1,4 @@
-# Teams-message
+# Teams message
 This script sends messages in Microsoft Teams.
 ## How to use
 First, enter here the e-mails of people you want to send a message to, as in the example below:
